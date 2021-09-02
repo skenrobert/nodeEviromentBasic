@@ -1,5 +1,5 @@
 # nodeEviromentBasic
-this repository shows a development environment in node, mongo y handelbar
+this repository shows a development environment in node, mongo y handlebars.
 
 After downloading
 1. You must have a database in Mongo with the name of file .env (notes-app)
